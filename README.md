@@ -4,3 +4,9 @@
 
 1ST CODEFORCES PROBLEM:
 codeforces_4A
+
+2ND CODEFORCES PROBLEM:
+71A_codeforces.java
+
+3RD CODEFORCES PROBLEM:
+71A_codeforces.java
