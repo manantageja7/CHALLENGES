@@ -13,3 +13,6 @@ codeforces_4A
 
 4TH CODEFORCES PROBLEM:
 617A_codeforces.java
+
+5TH CODEFORCES PROBLEM:
+112A_codeforces.java
