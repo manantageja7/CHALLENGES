@@ -12,10 +12,6 @@
 // OutputCopy
 // CHAT WITH HER!
 // InputCopy
-// xiaodao
-// OutputCopy
-// IGNORE HIM!
-// InputCopy
 // sevenkplus
 // OutputCopy
 // CHAT WITH HER!
