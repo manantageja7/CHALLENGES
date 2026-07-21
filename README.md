@@ -16,3 +16,9 @@ codeforces_4A
 
 5TH CODEFORCES PROBLEM:
 112A_codeforces.java
+
+6TH CODEFORCES PROBLEM:
+236A_codeforces.java
+
+7TH CODEFORCES PROBLEM:
+339A_codeforces.java
