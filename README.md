@@ -20,3 +20,18 @@ codeforces_4A
 
 7TH CODEFORCES PROBLEM:
 339A_codeforces.java
+
+8TH CODEFORCES PROBLEM:
+281A_codeforces.java
+
+9TH CODEFORCES PROBLEM:
+791A_codeforces.java
+
+10TH CODEFORCES PROBLEM:
+791A_codeforces.java
+
+11TH CODEFORCES PROBLEM:
+546A_codeforces.java
+
+12th CODEFORCES PROBLEM:
+59A_codeforces.java
