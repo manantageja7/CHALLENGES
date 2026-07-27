@@ -35,3 +35,6 @@ codeforces_4A
 
 12th CODEFORCES PROBLEM:
 59A_codeforces.java
+
+13th CODEFORCES PROBLEM:
+266A_leetcode.java
